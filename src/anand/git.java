@@ -2,9 +2,7 @@ package anand;
 
 public class Git {
 	public static void main(String[] args) {
-	 void sum()
-	{
-		
+		System.out.println(5 + 5);
+		System.out.println("HELLO");
 	}
-}
 }
