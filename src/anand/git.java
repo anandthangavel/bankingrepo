@@ -1,11 +1,10 @@
 package anand;
 
-public class git {
+public class Git {
 	public static void main(String[] args) {
-	public void sum()
+	 void sum()
 	{
-		System.out.println(2+2);
-		System.out.println("HELLO");
+		
 	}
 }
 }
